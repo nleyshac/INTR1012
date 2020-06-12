@@ -1,0 +1,82 @@
+
+
+
+body 
+    {background-color: rgb(46, 59, 63);
+    color: rgb(241, 241, 241);
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 200;
+    }
+.primary-heading {
+    color:rgb(233, 175, 189);
+    font-family: 'Overpass', sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 18px;
+    text-transform: full-width;
+    text-indent: 2em;
+}       
+
+.title {
+    color: yellow;
+    font-family: 'Overpass', sans-serif;
+    text-transform: uppercase;
+}
+
+.highlight {
+    background:rgb(219, 189, 124);
+    color:black;
+    box-sizing: content-box;
+}
+
+.center-text {
+    text-align: center;
+}
+
+
+.italicize {
+    font-family: 'Overpass',sans-serif;
+    font-style: italic;
+}
+
+
+
+.resize {
+    width:50%;
+}
+
+.box {    
+    padding-left: 2.5em;
+    width: 30%;
+    margin: 0;
+}
+
+
+.container {
+    background-color: rgb(126, 118, 118);
+    box-sizing: content-box;
+    width: 1000px;
+    text-align: left;
+    padding: 2em;
+    border-left: 4em solid rgb(182, 141, 117);
+    margin-left: 4em;
+}
+
+
+
+/* FONTS */
+font-weight
+    - A number 100, 200, 300, ..., 900
+    - 400: normal
+    - 700: bold
+font style
+    - normal or italic
+font-size
+    -
+font-family
+    -A comma separated list of font types
+
+
+/*TEXT/TYPE*/
+text-align:
+    -left, right, center, justify
